@@ -1,8 +1,16 @@
 # 👋🏼 Hi, I'm Paul Suárez | Full-Stack Developer  
 # 👋🏼 Hola, soy Paul Suárez | Desarrollador Full-Stack
-
-[Portfolio](https://www.devpess.com/) | [LinkedIn](www.linkedin.com/in/devpess) | [Email](mailto:paulsuarez018@gmail.com)
-
+<p align="center">
+  <a href="https://www.devpess.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-191e29?style=for-the-badge&logoColor=white&labelColor=191e29&color=191e29" alt="Portfolio"/>
+  </a>
+  <a href="www.linkedin.com/in/devpess" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2&color=0a66c2" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:paulsuarez018@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 I'm a **self-taught Full-Stack Developer** passionate about solving real-world problems through code. I combine business logic with clean architecture to build robust and scalable web and mobile applications.  
 Soy un **Desarrollador Full-Stack autodidacta**, apasionado por resolver problemas reales con código. Combino lógica de negocio con arquitectura limpia para crear soluciones web y móviles escalables y robustas.
 
